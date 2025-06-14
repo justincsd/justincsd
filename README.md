@@ -1,4 +1,3 @@
-# Hello Here! Hello World!
 <h1 align="center"> Hi there, I'm <a href="https://justincsd.github.io/csd.io/">Justin_csd</a> </h1>
 
 <!-- Typing effect -->
@@ -32,5 +31,13 @@ I am an OIer from Shenzhen China 🇨🇳.As a junior high school student,I can 
 
 ### My Public Code Init
 **我的公开代码片段**
+
+### My favourite applications
+**我最常用、最喜爱的软件**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell,vscode,pycharm,git,github,md,linux,replit,netlify" />
+  </a>
+</p>
 
 [Click here.](https://gist.github.com/justincsd)
